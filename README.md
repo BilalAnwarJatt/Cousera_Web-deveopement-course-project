@@ -5,7 +5,6 @@
 This is a Multi-Pages Website intended for a Chinese Restaurant named "David Chau's".
  Colors, design, and assets (images) are obtained from the restaurant owners via Coursera (as a part of John Hopkins University Course Materials).
  
- ## [Visit Now!](https://david-chus-china-bistro.netlify.com/index.html)
  
 *Website has 3 Active windows:*
 
@@ -44,13 +43,11 @@ This is a Multi-Pages Website intended for a Chinese Restaurant named "David Cha
 ## Demo:
 
 
-You can preview the live version by [clicking here!](https://david-chus-china-bistro.netlify.com/index.html)
-
 
 ## Tools Used For Development:
 
 
-           Bootstrap 4 
+           Bootstrap
 
 
            jQuery
